@@ -1,0 +1,8 @@
+fastapi>=0.83.0,<0.85.0
+uvicorn>=0.17.0,<0.28.0
+pymongo>=4.1.1,<5.0.0
+python-socketio>=5.10.0,<6.0.0
+python-jose[cryptography]>=3.3.0,<4.0.0
+passlib[bcrypt]>=1.7.4,<2.0.0
+python-multipart>=0.0.5,<0.1.0
+pydantic>=1.9.2,<3.0.0 
